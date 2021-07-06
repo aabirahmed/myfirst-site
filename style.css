@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.span {
+    color: darkgoldenrod;
+}
+.container-flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+.width-half{
+    width: 100%;
+    padding-left: 5%;
+}
+.width-half img{
+    width: 80%;
+}
+.order-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 50px;
+    color: white
+}
+.section-2{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    
+}
+.my-recepies{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px
+}
+.box-3{
+    display: flex
+}
+.box-1 img{
+    width: 70%;
+    margin: 15%;
+    margin-top: 0%;
+    box-shadow: 10px 10px 8px 10px #ebc6c6;
+
+}
+.boc{
+    width: 200px;
+    text-align: center;
+    margin-top: 100px;
+    border: solid;
+    margin: 28%;
+    margin-top: 0%;
+    
+
+}
+.fotter-1{ 
+    color: greenyellow;
+    
+}
+.colour1{
+    text-align: center;
+    background-color: midnightblue;
+    color: #ffff;
+    margin-left: 0%;
+    margin-right: 0%;
+}
